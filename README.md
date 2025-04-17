@@ -1,4 +1,4 @@
-Hi there! 👋 My name is Jacob, but almost all my internet accounts are called FloatingJacob (long story) anyways, im a noob software developer that uses AI for all my python projects, and my brain for the rest.
+Hi there! 👋 My name is Jacob, but almost all my internet accounts are called FloatingJacob (long story) anyways, im a noob software developer and i use AI for all my python projects, and my brain for the rest.
 
 
 I am far from a pro software developer (im only 14) and i try showing it through my horrendous GUIs in some of my GUI programs.
