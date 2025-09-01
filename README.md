@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-The name's Jacob, but most websites know me as **FloatingJacob** (long story).  
+My name is Jacob, but most websites know me as **FloatingJacob** (long story).  
 
 I’m a 14-year-old noob software dev. I use **AI** for my Python projects, and my brain for the rest (mostly).
 
