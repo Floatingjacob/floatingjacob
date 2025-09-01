@@ -1,21 +1,43 @@
-Hi there! 👋 My name is Jacob, but almost all my internet accounts are called FloatingJacob (long story) anyways, im a noob software developer and i use AI for my python projects, and my brain for the rest (mostly).
+# Hi there! 👋
+
+The name's Jacob, but most websites know me as **FloatingJacob** (long story).  
+
+I’m a 14-year-old noob software dev. I use **AI** for my Python projects, and my brain for the rest (mostly).
 
 
-DISCLAMER: I AM NOT TO BE HELD LIABLE IF YOU HAVE A STROKE WHILE REVIEWING MY CODE'S INEFFICIENCIES
+I’m far from a pro, and yes, my code probably has more inefficiencies than **Meta** (somehow).  
+
+---
+
+## ⚠️ Warning
+
+- Viewing my source code may cause temporary insanity.  
+- Do not attempt to debug alone.  
+- May induce severe rage or trigger OCD (David Adam, back off).  
+
+---
+
+## 🚀 Projects I’m Proud Of
+
+- **[PIXEL](https://github.com/FloatingJacob/PIXEL)** – My favorite project so far. It converts files to a .png which looks really garbled. (It's cooler after you [try it](https://github.com/FloatingJacob/PIXEL)).  
+- **aMogusManager** – A work-in-progress Among Us mod manager that will probably hospitalize you if you look at the source code.
+
+---
+
+## 🛠️ Languages I’ve Dabbled In
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![VB.NET](https://img.shields.io/badge/-VB.NET-68217A?style=for-the-badge&logo=visual-studio&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatingJacob&layout=compact&theme=radical)
 
 
-I am far from a pro software developer (im only 14) and if you look at my code there are probably a ton of horrendous inefficiencies.
+---
 
-
-My favorite project that i have 'made' so far is something i am calling PIXEL. Check it out at https://github.com/Floatingjacob/PIXEL
-
-
-A project that I am currently working on is called 'aMogusManager' (it's an Among Us mod manager).
-
-
-Some programming languages that i have dabbled in are: C#.NET (limited), python, C++ (for arduino-type boards, limited), HTML (Mudblazor, limited), VB.NET, SQL (is it even a programming language?), and javascript (very limited)
-
-
-"Lose like a winner." 
-
--Me
+> *“Lose like a winner.”*  
+> – Me
