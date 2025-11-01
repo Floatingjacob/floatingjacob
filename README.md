@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-My name is Jacob, but most websites know me as **FloatingJacob** (long story).  
+My name is Jacob, but the internet knows me as **FloatingJacob** (long story).  
 
-I’m a 14-year-old noob software dev. I use **AI** for my Python projects, and my brain for the rest (mostly).
+I’m a 15-year-old wannabe software dev. I use **AI** for my Python projects, and my brain for the rest (mostly).
 
 
 I’m far from a pro, and yes, my code probably has more inefficiencies than **Meta** (somehow).  
