@@ -20,7 +20,8 @@ I’m far from a pro, and yes, my code probably has more inefficiencies than **M
 ## 🚀 Projects I’m Proud Of
 
 - **[PIXEL](https://github.com/FloatingJacob/PIXEL)** – My favorite project so far. It converts files to a .png which looks really garbled. (It's cooler after you [try it](https://github.com/FloatingJacob/PIXEL)).  
-- **[aMogusManager](https://github.com/Floatingjacob/aMogusManager)** – A work-in-progress Among Us mod manager that will probably hospitalize you if you look at the source code.
+- **[aMogusManager](https://github.com/Floatingjacob/aMogusManager)** – A really janky Among Us mod manager that I like to pretend works.
+- **[Basic Adventure Engine](https://github.com/Floatingjacob/Basic-Adventure-Engine)** - A CYOA-type game engine that I'm trying to write because I wanted to make a text based game but decided that it would be easier to write an entire freaking engine and DSL first
 
 ---
 
