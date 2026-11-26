@@ -17,6 +17,10 @@ Most of my code is very unorthodox, but it works for me, so suck it.
 
 ## 👷 Current Project 
 
+As of 11.25.26
+
+- **[Yep](https://github.com/FloatingJacob/Yep)** - It's a game with procedurally generated mazes
+
 As of 10.8.26
 
 - ✨Absolutely nothing✨
